@@ -23,3 +23,7 @@ You should not have to add any new libraries to your existing project. If your p
 * struts2-core-2.3.28.1.jar
 * xwork-core-2.3.28.1.jar
 
+#Known Issues
+
+Internationalization may not work properly. Or it may. It is untested. 
+
