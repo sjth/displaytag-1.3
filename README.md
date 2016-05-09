@@ -5,7 +5,7 @@ This version has been upgraded to work with Struts 2.3+. Source code is availabl
 
 #Release
 
-This version works with Struts 2.3+.
+This version works with Struts 2.3+. Right click and download here: [Display Tag 1.3 JAR](https://github.com/sjth/displaytag-1.3/blob/master/release/displaytag1.3.jar?raw=true)
 
 #Dependencies
 
