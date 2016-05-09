@@ -27,3 +27,7 @@ You should not have to add any new libraries to your existing project. If your p
 
 Internationalization may not work properly. Or it may. It is untested. 
 
+#Warning
+
+This is the result of a few hours of late night coding. It worked for our purposes, so I am releasing it. Use at your own risk.
+
