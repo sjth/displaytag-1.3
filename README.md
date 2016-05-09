@@ -1,7 +1,7 @@
 #Display Tag 1.3
 
-As far as I know, [Display Tag](http://sourceforge.net/projects/displaytag) has not been updated for many years.
-This version has been upgraded to work with Struts 2.3+. Source code is available in the repository. 
+As far as I know, Display Tag 1,2 has not been updated for many years.
+This is an upgraded version of Display Tag library, which works with Struts 2.3+. Source code is available in the repository. 
 
 #Release
 
